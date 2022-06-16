@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/06 18:29:17.000.938,=C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/06 18:29:48.000.506,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Davi\Pedidos\Software\UBloqueiaSysdba.dfm</Transaction>
+    <Transaction>2022/06/06 18:29:48.000.506,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Davi\Pedidos\Software\UBloqueiaSysdba.pas</Transaction>
+    <Transaction>2022/06/06 18:29:57.000.169,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Davi\Pedidos\Software\PBlockSysdba.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
